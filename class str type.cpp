@@ -11,8 +11,8 @@ private:
 public:
 	str_type(const char* str = "") { strcpy(string, str); }
 	~str_type() { delete[] string; }
-	str_type operator+(str_type ob); // конкатениция строк
-	str_type operator=(str_type ob); // присваивание строк
+	str_type operator+(str_type ob); 
+	str_type operator=(str_type ob); 
 	void show_str() { cout << string << endl; }
 	str_type operator+(char* str);
 	str_type operator=(char* str);
@@ -62,14 +62,14 @@ str_type str_type::operator=(str_type ob)
 
 int main()
 {
-	str_type а("Привет "), b("всем"), с;
-	с = а + b;
-	с.show_str();
+	str_type Г (" aaaa "), b("bbbb"), Г±;
+	Г± = Г  + b;
+	Г±.show_str();
 	cout << "\n";
-	а = "для программирования, потому что";
-	а.show_str();s
+	Г  = " Hello everyone ";
+	Г .show_str();s
 	cout << "\n";
-	b = с = "C++ это супер";
-	с =а + " " + b;
+	b = Г± = "C++ is the best ";
+	Г± =Г  + " " + b;
 	return 0;
 }
