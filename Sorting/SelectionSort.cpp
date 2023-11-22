@@ -1,9 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 
-
-
-int Max_Index(int arr[], int size)
+int max_Index(int arr[], int size)
 {
 	int index = 0;
 	for (int i = 1; i < size; ++i)
@@ -16,16 +14,16 @@ int Max_Index(int arr[], int size)
 	return index;
 }
 
-void SelectionSort(int arr[], int size)
+void selectionSort(int arr[], int size)
 {
-	int maxindex;
+	int maxIndex;
 	int temp;
 	do
 	{
-		maxindex = Max_Index(arr, size);
+		maxIndex = max_Index(arr, size);
 		temp = arr[size - 1];
-		arr[size - 1] = arr[maxindex];
-		arr[maxindex] = temp;
+		arr[size - 1] = arr[maxIndex];
+		arr[maxIndex] = temp;
 		--size;
 	} while (size != 0);
 
@@ -35,12 +33,11 @@ void SelectionSort(int arr[], int size)
 int main()
 {
 	int arr[] = { 5,4,7,9,14,22,33,88,56,33,15 };
-	SelectionSort(arr, 11);
+	selectionSort(arr, 11);
 	for (int i = 0; i < 11; ++i)
 	{
 		cout << arr[i] << " ";
 	}
-
 
 	return 0;
 }

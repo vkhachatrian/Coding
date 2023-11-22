@@ -2,7 +2,7 @@
 // 509 --- 595
 
 
-//509(patrast ka harc)
+//509(TODO)
 
 /*#include <iostream>
 using namespace std;
@@ -38,7 +38,7 @@ int main() {
 
 } */
 
-//512(patrast)
+//512(done)
 
 /*
 #include <iostream>
@@ -92,7 +92,7 @@ int main() {
 
 
 
-//516(patrast)
+//516(done)
  /*
 #include <iostream>
 using namespace std;
@@ -132,7 +132,7 @@ int main() {
 }
 */
 
-//520(patrast)
+//520(done)
 /*
 #include <iostream>
 using namespace std;
@@ -192,7 +192,7 @@ int main() {
 
 
 
-//526(patrast)
+//526(done)
 
 
 /*
@@ -244,7 +244,7 @@ int main() {
 } 
 */
 
-//530(patrast)
+//530(done)
 
 //#include <iostream>
 //using namespace std;
@@ -292,7 +292,7 @@ int main() {
 //}
 
 
-//534(patrast)
+//534(done)
 
 /*#include <iostream>
 using namespace std;
@@ -357,7 +357,7 @@ int main() {
 } */
 
 
-//538(patrast)
+//538(done)
 
 /*
 
@@ -417,7 +417,7 @@ int main() {
 } 
 */
 
-//542(patrast)
+//542(done)
 /*
 #include <iostream>
 using namespace std;

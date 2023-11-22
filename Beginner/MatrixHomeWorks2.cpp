@@ -1,5 +1,5 @@
 
-//570(patrast)
+//570(done)
 
 /*
 #include <iostream>
@@ -70,7 +70,7 @@ int main() {
 */
 
 
-//574(patrast)
+//574(done)
 
 /*
 #include <iostream>
@@ -149,7 +149,7 @@ int main() {
 }
 */
 
-//580(patrast)
+//580(done)
 /*
 #include <iostream>
 using namespace std;
@@ -203,7 +203,7 @@ int main() {
 
 //589
 /*
-#include <iostream>
+#include <done>
 using namespace std;
 
 int main() {
@@ -249,7 +249,7 @@ int main() {
 //595
 /*
 
-#include <iostream>
+#include <done>
 using namespace std;
 
 

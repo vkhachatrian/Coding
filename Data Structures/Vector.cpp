@@ -3,32 +3,6 @@
 #include <string>
 using namespace std;
 
-
-
-class Student
-{
-private:
-	char m_name[20];
-	char m_surname[20];
-	int m_groupNumber;
-	int m_cource;
-
-public:
-	Student() {};
-
-	void setName(char name[])
-	{
-		//strcpy(m_name, name);
-	}
-	void setSurname();
-	bool operator==(const Student& other);
-
-	void print();
-
-
-};
-
-
 template <class T>
 class Vector
 {
@@ -189,22 +163,20 @@ void Vector<T>::clear()
 }
 
 
-//int main()
-//{
-//	Student s;
-//	Vector<int> p;
-//	p.push_back(4);
-//	p.push_back(5);
-//	p.push_back(6);
-//	p.push_back(7);
-//	p.push_back(8);
-//	p.pop_back();
-//	p.pop_back();
-//	p.pop_back();
-//	p.pop_back();
-//	//p.pop_back();
-//	p.print();
-//
-//	return 0;
-//}
-//
+int main()
+{
+	Vector<int> p;
+	p.push_back(4);
+	p.push_back(5);
+	p.push_back(6);
+	p.push_back(7);
+	p.push_back(8);
+	p.pop_back();
+	p.pop_back();
+	p.pop_back();
+	p.pop_back();
+	p.print();
+
+	return 0;
+}
+

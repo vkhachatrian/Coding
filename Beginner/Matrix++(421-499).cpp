@@ -1,5 +1,5 @@
 ﻿
-//421(patrast)
+//421(done)
 /*#include <iostream>
 using namespace std;
 
@@ -42,7 +42,7 @@ int main() {
 
 
 
-//425(patrast)
+//425(done)
 
 /*#include <iostream>
 using namespace std;
@@ -78,7 +78,7 @@ int main() {
 */
 
 
-//429(patrast)
+//429(done)
 /*#include <iostream>
 using namespace std;
 
@@ -109,7 +109,7 @@ int main() {
 	return 0;
 } */
 
-//471(patrast)
+//471(done)
 /*#include <iostream>
 using namespace std;
 
@@ -142,7 +142,7 @@ int main() {
 }*/
 
 
-//475 (patrast)
+//475 (done)
 /*
 #include <iostream>
 using namespace std;
@@ -181,7 +181,7 @@ int main() {
 	return 0;
 } */
 
-//479 (patrast)
+//479 (done)
 
 /*#include <iostream>
 using namespace std;
@@ -212,7 +212,7 @@ int main() {
 	return 0;
 } */
 
-//483(patrast)
+//483(done)
 /*#include <iostream>
 using namespace std;
 
@@ -244,7 +244,7 @@ int main() {
 }*/
 
 
-//487(drakan tarreri gumary ete ayn simetrik e glxavor ankyunagci nkatmamb)(patrast)
+//487(done)
 
 //
 //#include <iostream>
@@ -297,7 +297,7 @@ int main() {
 //}
 
 
-//491(patrast)
+//491(done)
 /*
 #include <iostream>
 using namespace std;
@@ -368,7 +368,7 @@ int main() {
 
 
 
-//495(?????????)
+//495(TODO)
 /*
 #include <iostream>
 using namespace std;
@@ -408,7 +408,7 @@ int main() {
 } */
 
 
-//499(patrast)
+//499(done)
 /*
 #include <iostream>
 using namespace std;
